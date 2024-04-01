@@ -4,7 +4,9 @@ The idea behind this project was to consider a rectangular room in a planar view
 
 ## Preview
 - Crowd in motion
+  
 ![tipe_animated](https://github.com/SkowKyubu/TIPE_OptimizationEvacuation/assets/120100522/2af333b5-b06e-4410-8c26-b7b6c4db9be4)
 
 - Optimal Placement of Exit Doors render
+  
 ![Figure_3](https://github.com/SkowKyubu/TIPE_OptimizationEvacuation/assets/120100522/602833a9-d981-449d-8896-56eeb69a4361)
